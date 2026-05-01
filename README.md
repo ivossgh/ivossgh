@@ -52,14 +52,6 @@ Sistema de gestão de clientes com foco em organização de dados e tomada de de
 
 ---
 
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivossgh&show_icons=true&theme=tokyonight&v=1"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivossgh&layout=compact&theme=tokyonight&v=1"/>
-</p>
-
----
 
 ## 📫 Contato
 
