@@ -9,44 +9,52 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou Desenvolvedor Back-End e graduando em Análise e Desenvolvimento de Sistemas pelo **Instituto Federal do Piauí (IFPI)**, atualmente no 3º período.
+Sou Desenvolvedor Back-End e graduando em Análise e Desenvolvimento de Sistemas pelo **Instituto Federal do Piauí (IFPI)**.
 
-Minha trajetória profissional é marcada pela interseção entre tecnologia e visão de negócios. Com formação técnica em Informática, graduação em Marketing e especialização em Gestão Estratégica de Negócios (Conquer), desenvolvi um perfil analítico que me permite não apenas escrever código, mas compreender o impacto das soluções de software nos processos organizacionais.
-
-Atualmente, aplico esses conhecimentos no desenvolvimento de sistemas, criando soluções eficientes, escaláveis e orientadas a resultados.
+Tenho um perfil que une tecnologia com visão de negócios, o que me permite desenvolver sistemas pensando não só no código, mas no impacto real dentro das empresas.
 
 ---
 
-## 🛠 Tecnologias
+## 🧠 Tecnologias
 
-**Back-End:** Java (Spring Boot), Python (Django)
-**Front-End:** HTML, CSS, JavaScript
-**Banco de Dados:** PostgreSQL
-**Ferramentas & Gestão:** Git, Metodologias Ágeis, Gestão de Projetos
+### 🚀 Back-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,python,django" />
+</p>
+
+### 🎨 Front-End
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js" />
+</p>
+
+### 🗄 Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres" />
+</p>
+
+### ⚙️ Ferramentas
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+</p>
 
 ---
 
 ## 🚀 Projetos em Destaque
 
 🔹 **CRM System**
-Sistema de gestão de relacionamento com o cliente desenvolvido com Java e Spring Boot, focado em organização de dados e apoio à tomada de decisão.
+Sistema de gestão de clientes com foco em organização de dados e tomada de decisão, utilizando Java + Spring Boot.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=ivossgh&show_icons=true&theme=tokyonight&cache_seconds=1800&v=1" 
-  />
-</p>
-
-<p align="center">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivossgh&layout=compact&theme=tokyonight&cache_seconds=1800&v=1" 
-  />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ivossgh&show_icons=true&theme=tokyonight&v=1"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ivossgh&layout=compact&theme=tokyonight&v=1"/>
 </p>
 
 ---
