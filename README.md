@@ -9,9 +9,11 @@
 
 ## 👨‍💻 Sobre Mim
 
-Sou Desenvolvedor Back-End e graduando em Análise e Desenvolvimento de Sistemas pelo **Instituto Federal do Piauí (IFPI)**.
+Sou Desenvolvedor Back-End e graduando em Análise e Desenvolvimento de Sistemas pelo **Instituto Federal do Piauí (IFPI)**, atualmente no 3º período.
 
-Tenho um perfil que une tecnologia com visão de negócios, o que me permite desenvolver sistemas pensando não só no código, mas no impacto real dentro das empresas.
+Minha trajetória profissional é marcada pela interseção entre tecnologia e visão de negócios. Com formação técnica em Informática, graduação em Marketing e especialização em Gestão Estratégica de Negócios (Conquer), desenvolvi um perfil analítico que me permite não apenas escrever código, mas compreender o impacto das soluções de software nos processos organizacionais.
+
+Atualmente, aplico esses conhecimentos técnicos no desenvolvimento de sistemas, buscando criar soluções eficientes, escaláveis e focadas em resultados.
 
 ---
 
