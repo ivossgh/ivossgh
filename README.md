@@ -2,8 +2,6 @@
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ivo-silva-49b1173a0/)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/558994129939)
 
 ---
 
@@ -55,7 +53,7 @@ Sistema de gestão de clientes com foco em organização de dados e tomada de de
 
 ## 📫 Contato
 
-📱 WhatsApp: (89) 99412-9939
-🔗 LinkedIn: https://www.linkedin.com/in/ivo-silva-49b1173a0/
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ivo-silva-49b1173a0/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge\&logo=whatsapp\&logoColor=white)](https://wa.me/558994129939)
 
 ---
