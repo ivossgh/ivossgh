@@ -5,7 +5,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+##  Sobre Mim
 
 Sou Desenvolvedor Back-End e graduando em Análise e Desenvolvimento de Sistemas pelo **Instituto Federal do Piauí (IFPI)**, atualmente no 3º período.
 
