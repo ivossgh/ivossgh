@@ -1,4 +1,4 @@
-# Olá, eu sou o Ivo Silva 👋
+# Olá, eu sou o Ivo Silva 
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer**
 
