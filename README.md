@@ -1,18 +1,6 @@
 # Olá, eu sou o Ivo Silva 
 
 **Estudante de Análise e Desenvolvimento de Sistemas | Back-End Developer**
-
-
----
-
-##  Sobre Mim
-
-Sou Desenvolvedor Back-End e graduando em Análise e Desenvolvimento de Sistemas pelo **Instituto Federal do Piauí (IFPI)**, atualmente no 3º período.
-
-Minha trajetória profissional é marcada pela interseção entre tecnologia e visão de negócios. Com formação técnica em Informática, graduação em Marketing e especialização em Gestão Estratégica de Negócios (Conquer), desenvolvi um perfil analítico que me permite não apenas escrever código, mas compreender o impacto das soluções de software nos processos organizacionais.
-
-Atualmente, aplico esses conhecimentos técnicos no desenvolvimento de sistemas, buscando criar soluções eficientes, escaláveis e focadas em resultados.
-
 ---
 
 ## 🧠 Tecnologias
