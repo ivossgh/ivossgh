@@ -38,7 +38,7 @@ Atualmente, aplico esses conhecimentos técnicos no desenvolvimento de sistemas,
 ### ⚙️ Ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=git,github,linux" />
 </p>
 
 ---
