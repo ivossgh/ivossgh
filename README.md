@@ -31,14 +31,6 @@
 
 ---
 
-## 🚀 Projetos em Destaque
-
-🔹 **CRM System**
-Sistema de gestão de clientes com foco em organização de dados e tomada de decisão, utilizando Java + Spring Boot.
-
----
-
-
 ## 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/ivo-silva-49b1173a0/)
