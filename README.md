@@ -8,13 +8,13 @@
 ### 🚀 Back-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,spring,python,django" />
+  <img src="https://skillicons.dev/icons?i=java,spring" />
 </p>
 
 ### 🎨 Front-End
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js" />
+  <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### 🗄 Banco de Dados
